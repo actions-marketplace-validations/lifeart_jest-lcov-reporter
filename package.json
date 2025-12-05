@@ -33,7 +33,7 @@
 		"@rollup/plugin-node-resolve": "^13.3.0",
 		"babel-jest": "^28.1.2",
 		"jest": "^28.1.2",
-		"prettier": "^2.7.1",
+		"prettier": "^3.7.4",
 		"rollup": "^2.76.0",
 		"rollup-plugin-node-externals": "^4.1.1"
 	},
